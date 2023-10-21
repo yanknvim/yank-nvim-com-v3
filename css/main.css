@@ -1,0 +1,11 @@
+.icon {
+	margin: auto;
+	display: block;
+	width: 128px;
+	border-radius: 100%;
+}
+
+.home-title {
+	text-align: center;
+	font-size: 20px;
+}
