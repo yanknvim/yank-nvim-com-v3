@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>yank.nvim - Links</title>
+
+		<link rel="icon" href="images/favicon.ico">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+	</head>
+
+	<body>
+		<main class="container">
+			<header>
+				<nav>
+					<ul>
+						<li><strong>yank.nvim</strong></li>
+					</ul>
+
+					<ul>
+						<li><a href="./">Home</a></li>
+						<li><a href="./about.html">About</a></li>
+						<li><a href="./links.html">Links</a></li>
+					</ul>
+				</nav>
+			</header>
+			
+			<div class="body">
+				<h1 id="links">Links</h1>
+<h2 id="相互リンク">相互リンク</h2>
+<p><a href="https://777shuang.github.io/"><img src="./images/777_banner.png" alt="777_banner" /></a></p>
+<p><a href="https://sasakulab.com/"><img src="./images/sasakura_banner.png" alt="sasakura_banner" /></a></p>
+<p><a href="https://kusaremkn.com"><img src="./images/kusaremkn_banner.webp" alt="kusaremkn_banner" /></a></p>
+<p><a href="https://gbudou.com"><img src="./images/budobudou_banner.png" alt="budobudou_banner" /></a></p>
+<h2 id="勝手リンク">勝手リンク</h2>
+<p>ないよ</p>
+<h2 id="banner">Banner</h2>
+<figure>
+<img src="./imagess/banner.png" alt="banner" />
+<figcaption aria-hidden="true">banner</figcaption>
+</figure>
+<h2 id="クソドメイン">クソドメイン</h2>
+<p><a href="http://uneu.net">ウネウネ</a></p>
+			</div>
+		</main>
+		
+	</body>
+</html>
